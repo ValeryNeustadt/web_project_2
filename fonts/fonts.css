@@ -1,0 +1,12 @@
+/* @font-face {
+    src: 
+    url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.woff2) format('woff2'),
+    url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.woff) format('woff'),
+    url(https://pictures.s3.yandex.net/fonts/Ibmplexserif.ttf) format('truetype');
+    font-family: "IBM Plex Serif";
+    font-weight: normal;
+  } */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Noto+Serif:ital@0;1&display=swap');
