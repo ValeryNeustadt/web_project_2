@@ -51,8 +51,6 @@
     padding: 20px 0 0 0;
 }
 
-
-
 .footer__social-link {
     display: flex;
     align-items: center;
@@ -69,7 +67,6 @@
     width: 16px;
     height: 16px;
 }
-
 
 .footer__copyright {
     font-family: Inter, 'Arial', sans-serif;
